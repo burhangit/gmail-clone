@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gmail-clone/static/css/main.1707abe7.css",
+    "main.js": "/gmail-clone/static/js/main.f3c2aad9.js",
+    "index.html": "/gmail-clone/index.html",
+    "main.1707abe7.css.map": "/gmail-clone/static/css/main.1707abe7.css.map",
+    "main.f3c2aad9.js.map": "/gmail-clone/static/js/main.f3c2aad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1707abe7.css",
+    "static/js/main.f3c2aad9.js"
+  ]
+}
